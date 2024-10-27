@@ -14,6 +14,11 @@ Este projeto apresenta um resumo do pedido de um serviço de streaming de músic
 - **CSS**: Para estilização e layout da página.
 - **Google Fonts**: Para utilizar fontes personalizadas.
 
+## Como Executar o Projeto
+1. Clone este repositório:
+   ```bash
+   git clone <URL do repositório>
+
 ## Contribuição
 - Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir um pull request.
 
